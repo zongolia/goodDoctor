@@ -14,7 +14,7 @@
     
     4.对应版本号的 Chromedriver (http://npm.taobao.org/mirrors/chromedriver/)
 
-    5.pytho3 main.py
+    5.python3 main.py
 
     6.根据提示,输入登陆账号、密码以开始自动化测试,学习、答题均全自动,学习完成自动退出，程序运行过程中,切勿操作浏览器;
     
